@@ -91,8 +91,5 @@ int main(int argc, char **argv) {
 
     endwin();   //terminate ncurses mode
 
-
-
-
     return 0;
 }
